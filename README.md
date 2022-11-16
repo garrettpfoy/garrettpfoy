@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**garrettpfoy/garrettpfoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome 👋
 
-Here are some ideas to get you started:
+This is Garrett Foy's public Github page. Here you will find an archive and history of all of my past (public) projects and codebases. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Please note this is a collection of all of my past programs, and does not reflect the quality of current commissions and projects.*
+
+
+## 🚀 About Me
+Currently I am a Junior at the University of Illinois at Chicago, pursuing a Bachelors degree in Computer Science with a Software Engineer specialization.
+
+**Overall GPA:** 3.8
+
+**Major GPA:** 4.0
+
+## 🛠 Languages
+
+* C/C++
+* C#
+* Python
+* GoLang (moderate proficiency)
+* Java
+## Technologies
+
+**Version Control**: Git, Github, GitBucket, Gitlab
+
+**DevOps:** Docker, Kubernetes, AWS
+
+**Distros:** Ubuntu, ClearOS, FedoraOS, Arch
+
