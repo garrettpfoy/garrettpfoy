@@ -7,7 +7,7 @@ This is Garrett Foy's public Github page. Here you will find an archive and hist
 
 
 ## 🚀 About Me
-Currently I am a Junior at the University of Illinois at Chicago, pursuing a Bachelors degree in Computer Science with a Software Engineer specialization.
+Currently I am a Senior at the University of Illinois at Chicago, pursuing a Bachelors degree in Computer Science with a Software Engineer specialization.
 
 **Overall GPA:** 3.8
 
@@ -18,13 +18,15 @@ Currently I am a Junior at the University of Illinois at Chicago, pursuing a Bac
 * C/C++
 * C#
 * Python
-* GoLang (moderate proficiency)
+* Go
 * Java
+* HTML/CSS
+* JavaScript
 ## Technologies
 
-**Version Control**: Git, Github, GitBucket, Gitlab
+**Version Control**: Git, Github, GitBucket, Gitlab, Azure DevOps
 
-**DevOps:** Docker, Kubernetes, AWS
+**DevOps:** Docker, Kubernetes, AWS, Github Actions, Gitlab CI/CD, Containrr/Watchtower
 
 **Distros:** Ubuntu, ClearOS, FedoraOS, Arch
 
