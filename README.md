@@ -7,7 +7,7 @@ This is Garrett Foy's public Github page. Here you will find an archive and hist
 
 
 ## 🚀 About Me
-I'm a recent graduate from the University of Illinois at Chicago with a major in Computer Science. Currently, I am working at Milhouse Engineering and Construction as a DevOps Co-Op and in my freetime completing projects with my side hustle THE CYBERNAUTS. 
+I'm a recent graduate from the University of Illinois at Chicago with a major in Computer Science. Currently, I am working at Milhouse Engineering and Construction as a Solutions Architect and in my freetime completing projects with my side hustle THE CYBERNAUTS. 
 
 ## 🛠 Languages (in order of proficiency) 
 
